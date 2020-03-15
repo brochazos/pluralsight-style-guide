@@ -19,4 +19,6 @@ node-sass --watch assets/scss/style-guide.scss assets/css/style-guide.css
 ```
 npm run sass 
 to complile and watch sass
+
+# Github project name
 # living-style-gide-sass-vanilla-javascript
